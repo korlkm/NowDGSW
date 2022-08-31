@@ -3,13 +3,33 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/holo_blue_dark"
-    tools:context="com.haker.nowdgsw5.MainActivity">
+    tools:context="com.haker.nowdgsw5.MainActivity"
+    tools:ignore="ExtraText">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="fragment1 - 다음지도 출력" />
+    <Button
+        android:id="@+id/button"
+        android:layout_width="300dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="25dp"
+        android:text="맑음"
+        android:textColorLink="#755C5C" />
 
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="300dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="200dp"
+        android:text="흐림"
+        android:textColorLink="#755C5C" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="300dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="375dp"
+        android:text="비"
+        android:textColorLink="#755C5C" />
 </FrameLayout>

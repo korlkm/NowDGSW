@@ -4,10 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/ic_round_home_24.xml" value="0.2215" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.165" />
         <entry key="app/src/main/res/layout/fragment_1.xml" value="0.21965579710144928" />
         <entry key="app/src/main/res/layout/fragment_2.xml" value="0.21965579710144928" />
         <entry key="app/src/main/res/layout/fragment_3.xml" value="0.21965579710144928" />
+        <entry key="app/src/main/res/layout/fragment_child1.xml" value="0.21965579710144928" />
       </map>
     </option>
   </component>
